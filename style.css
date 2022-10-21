@@ -63,3 +63,23 @@ span {
     color: rgb(73, 73, 84);
 
 }
+
+/* #food-img-1 {
+    width: 60%;
+}
+
+#food-img-2 {
+    width: 60%;
+} */
+
+.shadow {
+    box-shadow: 10px 10px 10px 10px #e1dddd;
+    padding: 30px;
+    text-align: center;
+    margin: 30px;
+    border-radius: 10px;
+}
+
+.shadow-box img {
+    width: 100%;
+}
