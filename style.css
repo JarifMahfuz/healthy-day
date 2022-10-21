@@ -83,3 +83,17 @@ span {
 .shadow-box img {
     width: 100%;
 }
+
+.online {
+    padding-left: 18%;
+
+}
+
+.online h3 {
+    font-size: 25px;
+    font-weight: 700;
+}
+
+small {
+    color: grey;
+}
