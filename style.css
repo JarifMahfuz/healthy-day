@@ -97,3 +97,10 @@ span {
 small {
     color: grey;
 }
+
+footer {
+    background-color: black;
+    padding: 25px;
+    color: #8a8484;
+    text-align: center;
+}
