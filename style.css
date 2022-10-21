@@ -1,0 +1,33 @@
+body {
+    font-family: 'Merriweather', serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'PT Serif', serif;
+}
+
+section {
+    display: flex;
+    padding-left: 4%;
+    margin-top: 30px;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: start;
+}
+
+span {
+    color: tomato;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.link-button {
+    background-image: linear-gradient(rgb(220, 165, 81), rgb(84, 121, 92));
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 15px;
+}
